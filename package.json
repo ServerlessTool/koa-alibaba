@@ -1,13 +1,13 @@
 {
-  "name": "@serverless-devs/express-alibaba",
-  "version": "0.0.26",
-  "description": "Serverless Devs Tool Express Framework Component For Alibaba Cloud",
+  "name": "@serverless-devs/koa-alibaba",
+  "version": "0.0.2",
+  "description": "Serverless Devs Tool Koa Framework Component For Alibaba Cloud",
   "keywords": [
     "Serverless",
     "Framework",
     "Serverless-Devs",
     "Serverless-Tool",
-    "Express"
+    "Koa"
   ],
   "homepage": "https://www.serverlessfans.com",
   "author": "Serverless-Devs",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ServerlessTool/express-alibaba"
+    "url": "https://github.com/ServerlessTool/koa-alibaba"
   },
   "scripts": {
     "watch": "tsc -w -p compile.tsconfig.json",
