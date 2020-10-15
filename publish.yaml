@@ -2,7 +2,7 @@ Type: Component
 Name: koa
 Provider:
   - Alibaba
-Version: 0.0.3
+Version: 0.0.4
 Description: 阿里云Koa组件，帮助您快速部署Koa项目
 HomePage: https://www.aliyun.com/
 Tags:
