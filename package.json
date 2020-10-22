@@ -1,6 +1,6 @@
 {
   "name": "@serverless-devs/koa-alibaba",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Serverless Devs Tool Koa Framework Component For Alibaba Cloud",
   "keywords": [
     "Serverless",
