@@ -11,7 +11,7 @@
 模版拉取：
 
 ```
-s init kao -p alibaba
+s init koa -p alibaba
 ```
 
 其中Yaml的默认配置为：
