@@ -63,6 +63,7 @@ KoaComponent:
     #      CodeUri:
     #        Bucket: function code包的bucket name
     #        Object: code zip包的object name
+    App: app.js
     CodeUri:
       Bucket: function code包的bucket name
       Src: 本地路径

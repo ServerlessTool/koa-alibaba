@@ -2,7 +2,7 @@ Type: Component
 Name: koa
 Provider:
   - Alibaba
-Version: 0.0.10
+Version: 0.0.11
 Description: 阿里云Koa组件，帮助您快速部署Koa项目
 HomePage: https://www.aliyun.com/
 Tags:
@@ -42,6 +42,11 @@ Properties:
           - us-west-1
           - us-east-1
           - ap-south-1
+  App:
+    Description: 应用地址
+    Required: false
+    Type:
+      - String
   Log:
     Required: false
     Description: log配置，function产生的log会写入这里配置的logstore
