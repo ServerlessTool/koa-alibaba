@@ -50,7 +50,7 @@ class ExpressComponent extends Framework {
     };
     const formatStr = {
       app: Detail.Bootstrap ? Detail.Bootstrap.App || inputs.Properties.App || DEFAULTAPP : inputs.Properties.App || DEFAULTAPP,
-      start: Detail.Bootstrap ? Detail.Bootstrap.Start || inputs.Properties.App || DEFAULTSTART : DEFAULTSTART
+      start: Detail.Bootstrap ? Detail.Bootstrap.Start || DEFAULTSTART : DEFAULTSTART
     };
     const bootstrapPath = Detail.Bootstrap ? Detail.Bootstrap.Path : undefined;
     if (bootstrapPath) {
